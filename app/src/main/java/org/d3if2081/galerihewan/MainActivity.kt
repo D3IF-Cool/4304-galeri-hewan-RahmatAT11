@@ -1,8 +1,7 @@
 package org.d3if2081.galerihewan
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.RecyclerView
 import org.d3if2081.galerihewan.databinding.ActivityMainBinding
